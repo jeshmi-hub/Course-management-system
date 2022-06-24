@@ -1,0 +1,18 @@
+John Green  sem:1 level:1907
+Database:78.0:A
+Data Science:87.0:A
+Web development:67.0:B
+Backend :57.0:B
+Congratulations!! You have progressed to the next level.
+John Green  sem:1 level:1907
+OOP:67.0:B
+OOT:88.0:A
+OOG:78.0:A
+OOF:45.0:B
+Congratulations!! You have progressed to the next level.
+Srashta Acharya  sem:3 level:335446
+Java:89.0:A
+c:98.0:A
+c++:87.0:A
+Python:78.0:A
+Congratulations!! You have progressed to the next level.

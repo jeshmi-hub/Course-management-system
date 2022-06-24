@@ -1,0 +1,42 @@
+Student registration information:
+Pragya Manandhar BSC
+The modules you need to study:
+Java
+Python
+C
+C++
+Student registration information:
+Srashta Acharya BSC
+The modules you need to study:
+Java
+C
+C++
+Python
+Student registration information:
+Jeshmi Rajak BSC
+The modules you need to study:
+Java
+C
+C+
+Python
+Student registration information:
+Jeshmi Rajak BSC
+The modules you need to study:
+Machine Learning 
+Data Science
+Java 
+Python
+Student registration information:
+Deepson Joke BBS
+The modules you need to study:
+null
+null
+null
+null
+Student registration information:
+Kite gun BSCIT
+The modules you need to study:
+Concurrency
+Python
+Java
+C

@@ -1,0 +1,47 @@
+
+Name:John Green
+
+StudentID:1907
+Grade Year:1
+Numerical methods and concurrency:65
+Python:80.5
+Java:54.5
+Web designing:70
+Total Marks:270
+GPA2.7
+Name:Dan Brown
+
+StudentID:1910
+
+Grade Year:1
+
+Numerical method and concurrency:55.5
+
+Python:70
+
+Java:64
+
+Web designing:68.5
+
+Total Marks:258
+
+GPA2.6
+
+Name:Srashta Acharya
+StudentID:2058951
+Grade Year:2
+Java:89
+C:98
+C++:87
+Python:78
+Total Marks:352
+GPA3.52
+Name:Kristen Stewart
+StudentID:33454
+Grade Year:2
+Database:78
+Data Science:87
+Web development:67
+Backend:57
+Total Marks:289
+GPA2.89

@@ -1,0 +1,10 @@
+Marks obtained bySage Malik in each modules are:
+Java =98.5
+Python =78.9
+C =90.0
+C++ =89.9
+Marks obtained bySrashta Acharya in each modules are:
+Java =89.0
+C =90.0
+C++ =87.0
+Python =78.0
